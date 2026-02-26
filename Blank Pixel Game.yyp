@@ -10,8 +10,8 @@
   },
   "defaultScriptType":0,
   "Folders":[
-    {"$GMFolder":"","%Name":"spri","folderPath":"folders/spri.yy","name":"spri","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"obj","folderPath":"folders/obj.yy","name":"obj","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"spri","folderPath":"folders/spri.yy","name":"spri","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -31,6 +31,7 @@
     {"id":{"name":"flag","path":"sprites/flag/flag.yy",},},
     {"id":{"name":"grass","path":"sprites/grass/grass.yy",},},
     {"id":{"name":"P","path":"sprites/P/P.yy",},},
+    {"id":{"name":"sBack","path":"sprites/sBack/sBack.yy",},},
     {"id":{"name":"spikes","path":"sprites/spikes/spikes.yy",},},
   ],
   "resourceType":"GMProject",
